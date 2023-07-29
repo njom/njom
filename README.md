@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas!
 - 👀 I’m interested in learning about Git.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently taking a break from learning Java.
 - 💞️ I'm seeking carreer oppurtunities Customer Care for PAAS.
 - 📫 Please feel free to send me a message in gitHub!
 
