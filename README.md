@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas!
 - 👀 I’m interested in learning about Git.
-- 🌱 I’m currently learning SQL and refreshing my skills in Java.
+- 🌱 I know some Java and am currently learning about NoSQL databases.
 - 💞️ I'm seeking carreer oppurtunities in Customer Success Management for SaaS.
 - 📫 Please feel free to send me a message in gitHub!
 
